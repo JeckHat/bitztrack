@@ -55,7 +55,7 @@ BitzTrack focuses exclusively on the Eclipse token ecosystem. The wallet interfa
 
 ## 📱 Download
 
-🔗 [Download the latest APK (Pre-release)](https://github.com/JeckHat/bitztrack/releases/download/v0.0.2-beta/BitzTrack-v0.0.2-beta.apk)  
+🔗 [Download the latest APK (Pre-release)](https://github.com/JeckHat/bitztrack/releases/download/bitztrack-beta/bitztrack-beta.apk)  
 
 ---
 
